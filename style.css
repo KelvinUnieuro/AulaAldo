@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+p{
+    font-size: 12px;
+    font-family: arial;
+}
+
+.p2{
+    font-size: 12px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+#titulo{
+    border: 5px red inset;
+    margin: 50, 10;
+}
